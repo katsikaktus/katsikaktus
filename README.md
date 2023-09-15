@@ -2,11 +2,11 @@
 
 #### About me:
 
-🔭 I am a 2nd year Sports Technology MSc student at KTH
+🔭 I am a graduate with an MSc in Sports Technology from KTH
 
-👀  I’m interested in mobile development and UX/Gamification especially in the context of fitness and wellbeing
+👀  I am involved in mobile development focusing on fitness and wellbeing
 
-🌱  I’m currently learning android (Kotlin), iOS (Swift) and developing my UX prototyping skills (Figma)
+🌱  I am skilled in Swift/SwiftUI, Kotlin/Jetpack Compose, and Python
 
 📫  How to reach me https://www.linkedin.com/in/giotapap/
 
